@@ -17,3 +17,7 @@ Subcategories:
 6: Linux
 
 7: Docker
+
+8: LiDAR/Point Cloud Processing and Analysis
+
+9: WebGL - LiDAR
