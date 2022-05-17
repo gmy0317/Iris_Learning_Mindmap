@@ -20,4 +20,4 @@ Subcategories:
 
 8: LiDAR/Point Cloud Processing and Analysis
 
-9: WebGL - LiDAR
+9: WebGL - Web-based LiDAR/BIM model visualization and analysis
